@@ -6,7 +6,10 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Islam Hegazy. A highly motivated Python | Data Analysis learner. </h4>
+<h4> - 👋 Hi, I’m ISLAM </h4>
+<h4> - 👀 I’m interested in DevOps, Cloud computing and Data analysis </h4>
+<h4> - 🌱 I’m currently learning Python </h4>
+ 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Languages and Tools 🛠 : 
